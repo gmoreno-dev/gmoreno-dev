@@ -85,10 +85,6 @@ cloud & infra:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmoreno-dev&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmoreno-dev&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 🎮 When I'm Not Coding
