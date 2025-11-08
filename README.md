@@ -35,7 +35,7 @@ class Gabriel:
         self.side_hustle = "Gippo - RPA Company"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together 🚀")
+        print("Thanks for dropping by!")
 
 me = Gabriel()
 me.say_hi()
@@ -43,7 +43,7 @@ me.say_hi()
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech
 
 ```yaml
 languages:
@@ -84,14 +84,5 @@ cloud & infra:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmoreno-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmoreno-dev&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d&hide_border=true"/>
 </div>
-
----
-
-### 🎮 When I'm Not Coding
-
-- 🏍️ Riding my Yamaha
-- 🎮 Playing Games
-- 💪 Fitness enthusiast
-- 📚 Always learning something new in tech
 
 ---
