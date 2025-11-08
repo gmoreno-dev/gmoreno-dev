@@ -16,7 +16,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+%26+RPA+Specialist;Systems+Analysis+Student;Coffee+%2B+Code+%3D+%F0%9F%92%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+%26+RPA;Systems+Analysis+Student;Coffee+%2B+Code+%3D+%F0%9F%92%9A" alt="Typing SVG" />
 
 </div>
 
