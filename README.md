@@ -16,6 +16,8 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-gabrielmoreno.site-8B8B8B?style=for-the-badge&labelColor=2b2b2b&logoColor=white)](https://gabrielmoreno.site/)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+%26+RPA;Systems+Analysis+Student;Coffee+%2B+Code+%3D+%F0%9F%92%9A" alt="Typing SVG" />
 
 </div>
