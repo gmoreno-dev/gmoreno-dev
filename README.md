@@ -77,14 +77,3 @@ cloud & infra:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=2b2b2b)
 
 </div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmoreno-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmoreno-dev&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d&hide_border=true"/>
-</div>
-
----
