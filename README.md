@@ -32,7 +32,7 @@ Ainda não sei tudo. O que eu sei é descobrir, e não entrego trabalho que eu n
 </p>
 
 > [!NOTE]
-> **Now building:** `shinobi-core-api`, an economy, inventory and progression API for roleplay game servers, with transfers that never double-spend. Python, FastAPI and PostgreSQL, built in public from Nov 2026 to Jan 2027.
+> **Now building:** `pitbox-api`, a management API for motorcycle repair shops: service orders, a parts stock that never goes negative and PIX payments that are never counted twice. Python, FastAPI and PostgreSQL, built in public from Nov 2026 to Jan 2027.
 
 Also on the bench: [**Chameleon API**](https://github.com/gmoreno-dev/Chameleon-API), a FastAPI service that converts HTML, PDF, PNG and JPEG behind an API key.
 
