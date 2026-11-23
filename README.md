@@ -53,18 +53,18 @@ training_now:  [SQL in depth, pytest, transactions & concurrency]
 ### `$ git log --author="gabriel"`
 
 ```text
-*  now             AI training data @ Outlier                          (HEAD -> main)
-|                  writing and reviewing Python, JS and Java for code models
+* now          AI training data @ Outlier  (HEAD -> main)
+|              writes and reviews Python, JS and Java for code models
 |
-*  2024 → 2026     Systems Analyst @ Gippo
-|                  backend in Python, JS and MySQL: up to 70% less manual work
-|                  Microsoft 365 <-> CRM integrations, RPA with n8n + Power Automate
-|                  client projects end to end on GCP and Azure
+* 2024-2026    Systems Analyst @ Gippo
+|              backend in Python, JS and MySQL: up to 70% less manual work
+|              Microsoft 365 <-> CRM integrations, RPA (n8n, Power Automate)
+|              client projects end to end on GCP and Azure
 |
-*  2022 → 2024     IT Assistant @ medical clinic
-|                  built the internal ticketing system and the automation scripts
+* 2022-2024    IT Assistant @ medical clinic
+|              built the internal ticketing system and automation scripts
 |
-*  age 16          first freelance job                                 (root)
+* age 16       first freelance job  (root)
 ```
 
 Studying IT at UNINTER, class of 2027 · Portuguese (native), English (professional) · UTC-3
