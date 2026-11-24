@@ -28,11 +28,8 @@ Ainda não sei tudo. O que eu sei é descobrir, e não entrego trabalho que eu n
   <a href="https://github.com/gmoreno-dev/Contabilidade-GIPPO"><img src="assets/repo-gippo.svg" width="49%" alt="Contabilidade-GIPPO, case study: multi-tenant SaaS that digitizes hiring paperwork for accounting firms, running in production. JavaScript, Fastify and MySQL."></a>
   <a href="https://github.com/gmoreno-dev/OttoTV"><img src="assets/repo-otto.svg" width="49%" alt="OttoTV: turns an old laptop into a smart TV with its own home screen, a phone remote and signed OTA updates. Java and Go. Boot time 77s to 40s."></a>
   <a href="https://github.com/gmoreno-dev/umbit"><img src="assets/repo-umbit.svg" width="49%" alt="umbit: unofficial 1-bit Spotify client for low-end PCs. 10 MB binary, opens in under a second. Rust. Version 0.1.10."></a>
-  <a href="https://github.com/gmoreno-dev/MoCalc"><img src="assets/repo-mocalc.svg" width="49%" alt="MoCalc: KDE's calculator rebuilt with a clean, macOS-style interface, packaged for Arch. C++. Version 1.1.0."></a>
+  <img src="assets/repo-pitbox.svg" width="49%" alt="pitbox-api, in progress: management API for motorcycle repair shops with service orders, parts stock and PIX payments. Python, built in public.">
 </p>
-
-> [!NOTE]
-> **Now building:** `pitbox-api`, a management API for motorcycle repair shops: service orders, a parts stock that never goes negative and PIX payments that are never counted twice. Python, FastAPI and PostgreSQL, built in public from Nov 2026 to Jan 2027.
 
 Also on the bench: [**Chameleon API**](https://github.com/gmoreno-dev/Chameleon-API), a FastAPI service that converts HTML, PDF, PNG and JPEG behind an API key.
 
