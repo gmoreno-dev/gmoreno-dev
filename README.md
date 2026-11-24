@@ -53,8 +53,8 @@ training_now:  [SQL in depth, pytest, transactions & concurrency]
 ### `$ git log --author="gabriel"`
 
 ```text
-* now          AI training data @ Outlier  (HEAD -> main)
-|              writes and reviews Python, JS and Java for code models
+* now          Queue Manager Auditor, coding @ Outlier  (HEAD -> main)
+|              audits Python, JS and Java tasks that train code models
 |
 * 2024-2026    Systems Analyst @ Gippo
 |              backend in Python, JS and MySQL: up to 70% less manual work
@@ -67,7 +67,7 @@ training_now:  [SQL in depth, pytest, transactions & concurrency]
 * age 16       first freelance job  (root)
 ```
 
-Studying IT at UNINTER, class of 2027 · Portuguese (native), English (professional) · UTC-3
+Studying Systems Analysis and Development at UNINTER, class of 2027 · Portuguese (native), English (professional) · UTC-3
 
 ### `$ ./hire --gabriel`
 
